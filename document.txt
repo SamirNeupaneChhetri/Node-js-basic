@@ -1,0 +1,21 @@
+------
+npm init    - to add node.js in system 
+
+
+
+
+
+
+
+---------for Express.js-------------
+npm install express
+and  add "start": "node index.js" in Script section to run js file.
+
+
+--  Routing --
+-----Request in Express js----------
+GET - GET request is used to request data from a server. and it is most common Http method used to primarily used to  retrieve data, such as fetch a webpage ,other type of data like JSON from an API.
+
+
+
+
